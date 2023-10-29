@@ -1,4 +1,4 @@
-# Hello World! 👋🏽 I am Harikrishnan.
+# Hi There! 👋🏼 I am Harikrishnan.
 
 <img alt="Coder gif" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
